@@ -1,0 +1,26 @@
+.header-title{
+    width: 140.79px;
+    height: 24px;
+    left: 58px;
+    top: 21px;
+    font-family: "Karla", sans-serif;
+    font-weight: bold;
+    font-size: 20.7482px;
+    line-height: 24px;
+    letter-spacing: -0.1em;
+    color: #FFFFFF;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    height: 65px;
+    background: linear-gradient(90deg, #d68bf1 1.18%, #672280 100%);
+    color: white;
+    padding: 20px;
+}
+
+.logoCarrito{
+    height: 100%;
+    padding: 20px;
+}
